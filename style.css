@@ -1,0 +1,44 @@
+#c1{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+#c2{
+    background-color: orange;
+    height: 50px;
+    width: 50px;
+    
+}
+
+#c3{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+}
+
+#c4{
+    background-color: yellowgreen;
+    height: 50px;
+    width: 50px;
+}
+
+#c5{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+
+#c6{
+    background-color: indigo;
+    height: 50px;
+    width: 50px;
+}
+#c7{
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
